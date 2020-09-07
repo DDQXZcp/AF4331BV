@@ -71,4 +71,38 @@ WiseNews database search
 
 listed company
 
+**Understanding of Sector**
+
+product of diffrentiation
+
 **gross margin**
+
+earning per share(EPS), ROA, ROE, gross margin
+
+Trend - 5 years; from a company at least 3 years
+
+**Ratio**
+
+profitability ratio
+
+liquidity ratio
+
+solvancy ratio(important when the economic is bad, ability to pay the long-term debts)
+
+operating efficiency ratios
+
+market measures: property prices, evaluation loss, loss to reliability. Accounting standard. Facts of the implication of the users. Accounting qualities.
+
+**Ratio analysis**
+
+compare apple to apple
+
+interpretation of the ratio
+
+across years and comparison to other company
+
+twice a year
+
+quarterly and annualy
+
+maturity: positive, more easy to do.

@@ -70,3 +70,5 @@ hkexnews.hk
 WiseNews database search
 
 listed company
+
+**gross margin**

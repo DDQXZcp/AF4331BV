@@ -52,3 +52,21 @@ Trying to find some stocks that are undervalued.
 
 
 **MOAT** Durable competitive advantages
+
+**Management** Integrity, capability
+
+**Marginal safety** Room of rise
+
+**Sector > industry**
+
+Which one tends to be more easily to observe.
+
+health-care sector - biotech industry,technology sector
+
+**Company can have their own criteria**
+
+hkexnews.hk
+
+WiseNews database search
+
+listed company

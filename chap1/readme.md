@@ -42,8 +42,13 @@ Use index to evaluate the long-only fund
 
 short-sell company.
 
+Benchmarking is used to measure performance using a specific indicator (cost per unit of measure, productivity per unit of measure, cycle time of x per unit of measure or defects per unit of measure) resulting in a metric of performance that is then compared to others.[1]
+
 **Fundamental Analyst**
 
 Trying to find some stocks that are undervalued.
 
 **Contrarian** Looks for value **Momentum traders** Looks for trend
+
+
+**MOAT** Durable competitive advantages
